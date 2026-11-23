@@ -4,6 +4,6 @@ En este repositorio recojo todos los detalles de la práctica 3 de la asignatura
 
   - [Post](Post.pdf)        
   - [Fotos del montaje](Montaje)
-  - [Esquemático](Montaje/Esquemático)
+  - [Esquemático](Montaje/Esquematico.png)
   - [Vídeo demostración](https://drive.google.com/file/d/1tsPbtUpwz4McyHxf6Wdord1YMxJEkQoc/view?usp=sharing)
 
